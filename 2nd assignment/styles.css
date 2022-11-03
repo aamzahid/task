@@ -1,0 +1,66 @@
+.half-width{
+    flex-wrap: wrap;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding: 20px;
+    background-color: aqua;
+}
+p{
+    display: contents;
+    
+    color: blue;
+}
+.skills{
+    color: red;
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding: 20px;
+    background-color: bisque;
+}
+.box{
+    display: flexbox;
+}
+#one{
+    background-color: rgb(172, 248, 239);
+    color: rgb(0, 21, 255);
+}
+.para{
+    background-color: aquamarine;
+    display: flex;
+}
+#two{
+    background-color: rgb(172, 248, 239);
+    color: rgb(0, 21, 255);
+    margin-bottom: 5px;
+}
+#three{
+    background-color: rgb(168, 208, 255);
+    color: rgb(4, 36, 28);
+   
+}
+.contact{
+    display: flexbox;
+    padding: 2px 5px;
+    justify-content: center;
+    width: 40%;
+    padding: 20px;
+    margin-left: 5%;
+    padding-left: 2%;
+    background-color: aliceblue;
+
+}
+#subm{
+    background-color: blanchedalmond;
+    color: blue;
+}
+.button{
+    width: 25%;
+    background-color: rgb(111, 252, 170);
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
